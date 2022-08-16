@@ -1,4 +1,4 @@
-const phoneImages = ["images/black.png", "images/blue.jpg", "images/pink.jpg", "images/starlight.jpg"]
+const phoneImages = ["images/black.jpg", "images/blue.jpg", "images/pink.jpg", "images/starlight.jpg"]
 let phoneCont = document.getElementById("phoneShow")
 
 let black = document.getElementById("black")
